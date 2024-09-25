@@ -1,6 +1,9 @@
 # CC7711-RNA
 
- No exercício foi montado aproximadores de função para os arquivos 'teste2.npy', 'teste3.npy', 'teste4.npy' e 'teste5.npy'. Foram feitas 3 simulações de arquitetura para cada arquivo, sendo a primeira 1 camada com 2 neurônios, a segunda 2 camadas com 5 e 2 neurônios e a terceira 3 camadas com 10, 5 e 2 neurônios. Ao fim foi feito a comparação entre as arquiteturas.
+> ### Aluno:
+> Gabriel Nunes Missima (22.221.040-3)
+
+ No exercício foi montado um aproximador de função para os arquivos 'teste2.npy', 'teste3.npy', 'teste4.npy' e 'teste5.npy'. Foram feitas 3 simulações de arquitetura para cada arquivo, sendo a primeira 1 camada com 2 neurônios, a segunda 2 camadas com 5 e 2 neurônios e a terceira 3 camadas com 10, 5 e 2 neurônios. Ao fim foi feito a comparação entre as arquiteturas.
  
  Segue as imagens dos gráficos gerados e sua melhor arquitetura:
 
